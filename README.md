@@ -8,6 +8,7 @@ Review the code and pay special attention to the tests directory where we:
 - build some factories using factory boy
 - use fake data provided by Faker
 - & create some parameterized tests using pytest
+- code challenge in test_accounts_and_profiles.py file to test your parameterization skills.
 
 # Honarable Mentions:
 - Type checking: for cleaner code (basic)
