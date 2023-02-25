@@ -1,0 +1,4 @@
+ipython # https://ipython.org/
+ipdb # https://pypi.org/project/ipdb/
+factory-boy # https://factoryboy.readthedocs.io/en/latest/
+pytest-factoryboy # https://pypi.org/project/pytest-factoryboy/
